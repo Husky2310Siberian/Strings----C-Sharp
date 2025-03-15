@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsProject", "StringsProject\StringsProject.csproj", "{A383E85B-A118-420B-967A-7A01E6DB362D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableStrings", "NullableStrings\NullableStrings.csproj", "{CF2FFA3D-8C44-4A26-A80B-8DB50CA6C5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A383E85B-A118-420B-967A-7A01E6DB362D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A383E85B-A118-420B-967A-7A01E6DB362D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A383E85B-A118-420B-967A-7A01E6DB362D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A383E85B-A118-420B-967A-7A01E6DB362D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2FFA3D-8C44-4A26-A80B-8DB50CA6C5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2FFA3D-8C44-4A26-A80B-8DB50CA6C5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2FFA3D-8C44-4A26-A80B-8DB50CA6C5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2FFA3D-8C44-4A26-A80B-8DB50CA6C5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

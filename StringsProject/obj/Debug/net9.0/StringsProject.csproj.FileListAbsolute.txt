@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/bin/Debug/net9.0/StringsProject
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/bin/Debug/net9.0/StringsProject.deps.json
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/bin/Debug/net9.0/StringsProject.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/bin/Debug/net9.0/StringsProject.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/bin/Debug/net9.0/StringsProject.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/StringsProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/StringsProject.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/StringsProject.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/StringsProject.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/StringsProject.sourcelink.json
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/StringsProject.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/refint/StringsProject.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/StringsProject.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/StringsProject.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/StringsProject/obj/Debug/net9.0/ref/StringsProject.dll
