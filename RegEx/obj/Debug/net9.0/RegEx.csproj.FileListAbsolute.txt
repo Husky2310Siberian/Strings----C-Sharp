@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/bin/Debug/net9.0/RegEx
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/bin/Debug/net9.0/RegEx.deps.json
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/bin/Debug/net9.0/RegEx.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/bin/Debug/net9.0/RegEx.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/bin/Debug/net9.0/RegEx.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/RegEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/RegEx.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/RegEx.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/RegEx.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/RegEx.sourcelink.json
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/RegEx.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/refint/RegEx.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/RegEx.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/RegEx.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/RegEx/obj/Debug/net9.0/ref/RegEx.dll

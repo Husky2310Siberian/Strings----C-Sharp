@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/bin/Debug/net9.0/NullableStrings
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/bin/Debug/net9.0/NullableStrings.deps.json
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/bin/Debug/net9.0/NullableStrings.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/bin/Debug/net9.0/NullableStrings.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/bin/Debug/net9.0/NullableStrings.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/NullableStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/NullableStrings.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/NullableStrings.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/NullableStrings.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/NullableStrings.sourcelink.json
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/NullableStrings.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/refint/NullableStrings.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/NullableStrings.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/NullableStrings.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/NullableStrings/obj/Debug/net9.0/ref/NullableStrings.dll
