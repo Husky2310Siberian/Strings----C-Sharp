@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableStrings", "Nullable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx", "RegEx\RegEx.csproj", "{BE9A3C1C-A736-4294-89C7-D1D7A9A88D85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateMobileRegEx", "ValidateMobileRegEx\ValidateMobileRegEx.csproj", "{BA1F3400-5508-436B-B6E0-F1463906EFE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{BE9A3C1C-A736-4294-89C7-D1D7A9A88D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE9A3C1C-A736-4294-89C7-D1D7A9A88D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE9A3C1C-A736-4294-89C7-D1D7A9A88D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1F3400-5508-436B-B6E0-F1463906EFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1F3400-5508-436B-B6E0-F1463906EFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1F3400-5508-436B-B6E0-F1463906EFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1F3400-5508-436B-B6E0-F1463906EFE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

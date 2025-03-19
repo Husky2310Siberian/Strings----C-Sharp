@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/bin/Debug/net9.0/ValidateMobileRegEx
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/bin/Debug/net9.0/ValidateMobileRegEx.deps.json
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/bin/Debug/net9.0/ValidateMobileRegEx.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/bin/Debug/net9.0/ValidateMobileRegEx.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/bin/Debug/net9.0/ValidateMobileRegEx.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ValidateMobileRegEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ValidateMobileRegEx.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ValidateMobileRegEx.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ValidateMobileRegEx.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ValidateMobileRegEx.sourcelink.json
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ValidateMobileRegEx.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/refint/ValidateMobileRegEx.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ValidateMobileRegEx.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ValidateMobileRegEx.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/ValidateMobileRegEx/obj/Debug/net9.0/ref/ValidateMobileRegEx.dll
