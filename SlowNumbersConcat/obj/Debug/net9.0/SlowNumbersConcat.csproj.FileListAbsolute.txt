@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/bin/Debug/net9.0/SlowNumbersConcat
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/bin/Debug/net9.0/SlowNumbersConcat.deps.json
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/bin/Debug/net9.0/SlowNumbersConcat.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/bin/Debug/net9.0/SlowNumbersConcat.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/bin/Debug/net9.0/SlowNumbersConcat.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/SlowNumbersConcat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/SlowNumbersConcat.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/SlowNumbersConcat.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/SlowNumbersConcat.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/SlowNumbersConcat.sourcelink.json
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/SlowNumbersConcat.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/refint/SlowNumbersConcat.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/SlowNumbersConcat.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/SlowNumbersConcat.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/SlowNumbersConcat/obj/Debug/net9.0/ref/SlowNumbersConcat.dll

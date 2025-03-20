@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/bin/Debug/net9.0/FastNumbersConcat
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/bin/Debug/net9.0/FastNumbersConcat.deps.json
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/bin/Debug/net9.0/FastNumbersConcat.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/bin/Debug/net9.0/FastNumbersConcat.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/bin/Debug/net9.0/FastNumbersConcat.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/FastNumbersConcat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/FastNumbersConcat.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/FastNumbersConcat.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/FastNumbersConcat.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/FastNumbersConcat.sourcelink.json
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/FastNumbersConcat.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/refint/FastNumbersConcat.dll
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/FastNumbersConcat.pdb
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/FastNumbersConcat.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/StringsProject/FastNumbersConcat/obj/Debug/net9.0/ref/FastNumbersConcat.dll

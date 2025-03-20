@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx", "RegEx\RegEx.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateMobileRegEx", "ValidateMobileRegEx\ValidateMobileRegEx.csproj", "{BA1F3400-5508-436B-B6E0-F1463906EFE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlowNumbersConcat", "SlowNumbersConcat\SlowNumbersConcat.csproj", "{FCB1937E-52C0-44EA-BF6F-5E3EC0E28C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastNumbersConcat", "FastNumbersConcat\FastNumbersConcat.csproj", "{0A3FD6B3-0387-42C9-8301-DCBE689F9C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{BA1F3400-5508-436B-B6E0-F1463906EFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA1F3400-5508-436B-B6E0-F1463906EFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA1F3400-5508-436B-B6E0-F1463906EFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB1937E-52C0-44EA-BF6F-5E3EC0E28C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB1937E-52C0-44EA-BF6F-5E3EC0E28C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB1937E-52C0-44EA-BF6F-5E3EC0E28C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB1937E-52C0-44EA-BF6F-5E3EC0E28C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3FD6B3-0387-42C9-8301-DCBE689F9C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3FD6B3-0387-42C9-8301-DCBE689F9C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3FD6B3-0387-42C9-8301-DCBE689F9C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3FD6B3-0387-42C9-8301-DCBE689F9C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
