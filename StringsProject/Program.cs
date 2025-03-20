@@ -46,6 +46,15 @@ class Program
         string s9 = " -- ** C# Strings  Hello     World **  {  }";
         char[] chars = { ' ', '\t', '\n', '\r', '-','*' , '{' , '}' };
         Console.WriteLine(s9.Trim(chars));
+        
+        string s = "Programming with Strings Project";
+        string s111 = s.Substring(5, 5);
+        Console.WriteLine(s111);
+        string s222 = s.Replace("P" , "p");
+        Console.WriteLine(s222);
+        string s333 = s.Remove(16).Replace("P" , "p");
+        Console.WriteLine(s333);
+            
     }
     
     public static bool IsPalindrome(string s)

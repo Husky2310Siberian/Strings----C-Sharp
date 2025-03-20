@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidateMobileRegEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e771c8f3cb0d93b11718972a9bc86c7bbc7c78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53231f0c60c81efac970386b20dd804a54d22967")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidateMobileRegEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidateMobileRegEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

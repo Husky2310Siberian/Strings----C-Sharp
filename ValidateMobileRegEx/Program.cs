@@ -10,7 +10,7 @@ class Program
         // string inputmobile2 = "123-456-7899";
         // string inputmobile3 = "12-34-56789";
         // string inputmobile4 = "12-34-567";
-        
+        //
         // Console.WriteLine(IsMobileNumberValid(inputmobile))};
         // Console.WriteLine(IsMobileNumberValid(inputmobile2));
         // Console.WriteLine(IsMobileNumberValid(inputmobile3));
